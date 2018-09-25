@@ -7,7 +7,7 @@ App = React.createClass({
 		};
 	},
 
-	 
+
 
 	getGif: function (searchingText, callback) {  // 1.
 		const GIPHY_API_URL = 'https://api.giphy.com';
